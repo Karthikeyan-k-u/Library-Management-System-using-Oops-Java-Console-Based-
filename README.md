@@ -72,6 +72,4 @@ This is a console-based Library Management System developed using Java. It allow
 
 ## 👨‍💻 Author
 
-Your Name
-
 Kartthikeyan K U 
